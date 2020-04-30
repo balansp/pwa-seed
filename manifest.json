@@ -1,8 +1,8 @@
 {
     "name": "Calc Percentage",
     "short_name": "Calc-Per",
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#2D4F62",
+    "background_color": "#2D4F62",
     "display": "standalone",
     "scope": "/",
     "start_url": "/",
