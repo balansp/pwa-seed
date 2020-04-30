@@ -1,5 +1,7 @@
   (function(){
-     location.protocol="https:";
+    if(location.protocol!="https:"){
+      location.protocol="https:";
+    }
       function $(selector) {
         return document.querySelector(selector);
       }

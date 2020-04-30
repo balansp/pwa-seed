@@ -1,4 +1,4 @@
-const cacheName = 'calc-per-v1';
+const cacheName = 'calc-per-v2';
 const staticAssets = [
     './',
     './index.html',
